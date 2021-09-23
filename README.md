@@ -1,4 +1,4 @@
-# Semana-Omnistack11
+# Semana-Omnistack11 - BE THE HERO
 Java Script - frontend, backend and mobile
 
 Este projeto foi feito em um curso de JavaScript utilizando Node.js, ReactJS e React Native.<br>
