@@ -26,6 +26,10 @@ React - para montar as págias<br>
 ![front 2](https://user-images.githubusercontent.com/12162335/134551961-7edede26-b21c-47e7-9ed5-62909681b726.png)
 ![front](https://user-images.githubusercontent.com/12162335/134552065-b43659d1-a784-4719-8fa6-5676659c0c9c.png)
 
-![Screenshot_20210923-160648_Expo Go](https://user-images.githubusercontent.com/12162335/134552492-4a9e487d-145f-4162-983a-ea4fe23cedac.jpg)
-![Screenshot_20210923-164004_Expo Go](https://user-images.githubusercontent.com/12162335/134552505-105bda45-0e65-43e8-acdd-f7cbc912c140.jpg)
-![Screenshot_20210923-164009_Expo Go](https://user-images.githubusercontent.com/12162335/134552520-5985eec7-32b2-467d-b788-2d1974d90995.jpg)
+![Screenshot_20210923-160648_Expo Go](https://user-images.githubusercontent.com/12162335/134556193-57ef4294-af97-4e55-81fe-8991469b4b4c.jpg)
+![Screenshot_20210923-164004_Expo Go](https://user-images.githubusercontent.com/12162335/134556197-6dbc9788-6846-4c0c-b8b2-6e2df76f7cd8.jpg)
+![Screenshot_20210923-164009_Expo Go](https://user-images.githubusercontent.com/12162335/134556209-41a962d5-01dd-4baf-a77d-d11cca3ab761.jpg)
+
+
+
+
